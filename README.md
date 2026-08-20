@@ -117,11 +117,11 @@ If you want to collab on a web app, UI rebuild, portfolio piece, or creative tec
 
 <div align="center">
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JT-028&show_icons=true&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=JT-028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JT-028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=JT-028&theme=highcontrast&hide_border=false)<br/>
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=JT-028&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JT-028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
