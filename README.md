@@ -117,8 +117,6 @@ If you want to collab on a web app, UI rebuild, portfolio piece, or creative tec
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=JT-028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ![](https://streak-stats.demolab.com/?user=JT-028&theme=highcontrast&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JT-028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
