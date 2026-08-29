@@ -2,7 +2,7 @@
 
 # Hi, I'm Jonathan Tiglao 👋
 
-**Full-stack developer · UI/UX & front-end builder · creative technologist**
+**Full-stack developer · UI/UX & front-end builder**
 
 I design and build web experiences that look intentional and work in the real world — from polished interfaces to backend systems, IoT-connected apps, and AI-assisted tools.
 
