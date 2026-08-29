@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jonathan Tiglao 👋
+# Hi, I'm Jonathan Tiglao
 
 **Full-stack developer · UI/UX & front-end builder · creative technologist**
 
