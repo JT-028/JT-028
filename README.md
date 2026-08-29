@@ -111,19 +111,3 @@ I design and build web experiences that look intentional and work in the real wo
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@jdtiglao.dev)
 
 If you want to collab on a web app, UI rebuild, portfolio piece, or creative tech experiment — reach out.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JT-028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-<p align="center">
-  <i>Building with intention — code, design, and a little creative chaos.</i>
-</p>
