@@ -30,8 +30,8 @@ I design and build web experiences that look intentional and work in the real wo
 | Project | What it is | Stack |
 |--------|------------|--------|
 | [**JobStack**](https://github.com/JT-028/JobStack) | A Kanban-style job-hunting tracker built with Next.js, Better Auth, Neon PostgreSQL, and Drizzle ORM. | Next.js · React · Tailwind · Postgres · Drizzle ORM · Better Auth · Resend |
-| [**INDU-clothing-store**](clothing-line-store.vercel.app) | INDÛ clothing line storefront | Next.js · React · Tailwind · Postgres · PayMongo |
-| [**Rnan-Kyrie-Car-rental-website**](car-rental-mason.vercel.app) | Rnan-Kyrie Car Rental Website with PayMongo payment integration | Next.js · React · Tailwind · Postgres · PayMongo · Better Auth · Resend |
+| [**INDU-clothing-store**](https://clothing-line-store.vercel.app) | INDÛ clothing line storefront | Next.js · React · Tailwind · Postgres · PayMongo |
+| [**Rnan-Kyrie-Car-rental-website**](https://car-rental-mason.vercel.app) | Rnan-Kyrie Car Rental Website with PayMongo payment integration | Next.js · React · Tailwind · Postgres · PayMongo · Better Auth · Resend |
 | [**GENTA-System**](https://github.com/JT-028/GENTA-System) | AI classroom companion with teacher portal, IoT hub, and voice quiz engine | Python · Flask · CakePHP · ESP32 · Gemini |
 
 > More work coming soon on my portfolio site.
